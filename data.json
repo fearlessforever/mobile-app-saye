@@ -1,0 +1,1126 @@
+{
+ "kind": "youtube#activityListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_yzLef7MMNLj4r_qYEo5kXnrJAg\"",
+ "nextPageToken": "CBkQAA",
+ "pageInfo": {
+  "totalResults": 60,
+  "resultsPerPage": 25
+ },
+ "items": [
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7Y9ebDFL_n_UmOAAghUVJpT2hQg\"",
+   "id": "VTE1NDExNzc3MjIxNDA2OTYyNzM3ODEwMDg=",
+   "snippet": {
+    "publishedAt": "2018-11-02T16:55:22.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Introducing Flutter Widgets 101",
+    "description": "A new video series on Flutter Widgets is here! Want to know what to expect in upcoming episodes? Here is Martin Aguinis and Andrew Brogdon disclosing some details.\n\nStay tuned and subscribe for latest releases → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CXedqMlLo7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CXedqMlLo7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CXedqMlLo7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/CXedqMlLo7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/CXedqMlLo7M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "CXedqMlLo7M"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xZau304_KE1K_fQGo8KBorep8cc\"",
+   "id": "VTE1NDExMDYzNDYxNDA2OTYyNzM3ODIwMzI=",
+   "snippet": {
+    "publishedAt": "2018-11-01T21:05:46.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Android Developer Training, Chrome 71 Beta, Firebase Summit 2018, & more!",
+    "description": "The Google Developers Show: Episode TL;DR 133\n\nFree training for Android developers → http://bit.ly/2CWdHLB\nFirebase Summit 2018 → http://bit.ly/2Dguhqm\nCloud KMS plugin for HashiCorp Vault → http://bit.ly/2PDRSac\nPrivate DNS Zones → http://bit.ly/2AI7hhB\nChrome 71 Beta → http://bit.ly/2OZBAZM\n\nTop 5 Announcements from Firebase Summit → 2018 http://bit.ly/2yLt0E4\n\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Wayne Piekarski (@waynepiekarski). Expect a new Dev Show episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fG_redhOxAE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fG_redhOxAE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fG_redhOxAE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fG_redhOxAE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fG_redhOxAE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "fG_redhOxAE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LcABIoXJQk_7CuTuDpq-phes4-A\"",
+   "id": "VTE1NDEwMTMzMDkxNDA2OTYyNzM3ODM2OTY=",
+   "snippet": {
+    "publishedAt": "2018-10-31T19:15:09.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Flutter's Search Support - The Boring Flutter Development Show",
+    "description": "Andrew and Matt add search functionality to the Hacker News reader app in this episode of The Boring Show. They demonstrate how you can use the Material package to wire search into the UI - the result is one call to launch the API and a single class to return the widgets that present the UI for searching.\n\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! You can reach out in the comments below or on Twitter using #BoringShow.\n\nLink to previous episode → http://bit.ly/2CSQn1a\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Wm3OiFBZ2xI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Wm3OiFBZ2xI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wm3OiFBZ2xI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Wm3OiFBZ2xI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Wm3OiFBZ2xI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "Wm3OiFBZ2xI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EFlJcHo9nWnekfHUIhbFaS8yxs0\"",
+   "id": "VTE1NDA5MTg4NDYxNDA2OTYyNzM3ODI5OTI=",
+   "snippet": {
+    "publishedAt": "2018-10-30T17:00:46.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "SliverList & SliverGrid (Flutter Widget of the Week)",
+    "description": "If you want a list and a grid to scroll together, or another cool and complex scrolling effect, SliverList and SliverGrid are just what you need! Slivers can easily scroll through large numbers of children in a grid or list, and allow you to build children lazily or ahead of time. \n\nLearn more about SliverList → http://bit.ly/2yXcu2W\nLearn more about SliverGrid → http://bit.ly/2yFAZCD\n\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ORiTTaVY6mM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ORiTTaVY6mM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ORiTTaVY6mM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ORiTTaVY6mM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ORiTTaVY6mM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "ORiTTaVY6mM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hPbZR8pDSVY-MALE_n9Tac9tVcM\"",
+   "id": "VTE1NDA4MzY3OTMxNDA2OTYyNzM3ODI1NDQ=",
+   "snippet": {
+    "publishedAt": "2018-10-29T18:13:13.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Top 5 from Firebase Summit '18",
+    "description": "Watch the keynote & all the recorded sessions in this playlist → http://bit.ly/2R5ag92\n \nMobile app developers from around the world gathered in Prague for the 2018 Firebase Summit. Timothy Jordan from #DevShow gives us the top 5 highlights from the event, including the latest features, and where Firebase is headed in 2019. \n\nSubscribe to the Firebase channel, and together let’s build better apps, improve app quality, and take advantage of all that Firebase has to offer so we can grow our businesses in a mobile-first world. Subscribe now → http://bit.ly/firebase2\n\nInterested in learning more about the top 5 Firebase announcements at this year’s summit?\n\n1. Deploying to Firebase Hosting from Glitch or StackBlitz \nThese are powerful web based IDEs. These integrations are based on the new Firebase Management API, which lets you create and manage Firebase APIs. \nTo learn more about Glitch, visit → http://bit.ly/2LtI1hZ\nTo learn more about StackBlitz, visit → http://bit.ly/2Od7wVi\n\n2. Enterprise-grade paid support\n This helps large and complex enterprises get up to speed with Firebase. Learn all about it at → http://bit.ly/2OU2Ed3\n\n3. Firebase Predictions is out of Beta\nPredictions is now fully stable and available for production use. Predictions data (along with Firebase Cloud Messaging and A/B Testing data) can be exported to BigQuery. Firebase predictions applies machine learning (ML) to your app analytic data to predict user behavior. Learn more at → http://bit.ly/2QbNmNo\n\n4. Test Lab for iOS is also now generally available\nTest Lab is crowd based app testing that works across Android and iOS. Nearly 100,000 successful tests have been run over the last several months. Learn more at → http://bit.ly/2LAZkgw\n\n5. ML Kit Face Contours API\n Its now part of Firebase’s ML Kit, and is a more advanced version of the Face Detection API. It can now recognize more facial features, especially for photo filtering! Learn more at → http://bit.ly/2Oe8rF8\n\n\nFirebase Summit homepage → http://bit.ly/2zrhjF8\n\nGive us your feedback in the comments below and help shape the future of Firebase.\n\nEvent photos → https://fs18.page.link/photos\nMusic by Terra Monk → http://bit.ly/2Q0msYH\n\nSubscribe to the Firebase channel for the latest → http://bit.ly/firebase2\n\n#FirebaseSummit",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FuFgUzUVOFs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FuFgUzUVOFs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FuFgUzUVOFs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/FuFgUzUVOFs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/FuFgUzUVOFs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "FuFgUzUVOFs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oomsnC5SVpdX1J17AbrHv_ekoWc\"",
+   "id": "VTE1NDA1NzM1MTExNDA2OTYyNzM3ODMyNDg=",
+   "snippet": {
+    "publishedAt": "2018-10-26T17:05:11.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Designing a Persona - Lightning Talk with Wally Brill",
+    "description": "Designing a persona for your product advertises individualism and brand perception, so it can stand out amongst other brands to best appeal to your target audience.\n \nWally compares personas from competing companies to demonstrate how giving your product some character can change the sensation of a conversation. \n\nReference link → http://bit.ly/ConversationDesign\n\nFor more updates and releases, remember to subscribe to the channel → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D5WkP8JZgdw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D5WkP8JZgdw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D5WkP8JZgdw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/D5WkP8JZgdw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/D5WkP8JZgdw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "D5WkP8JZgdw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MZYLos_DMQqYduscG-diMyFC1u0\"",
+   "id": "VTE1NDA1MDY3NjIxNDA2OTYyNzM3ODMzMTI=",
+   "snippet": {
+    "publishedAt": "2018-10-25T22:32:42.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Playtime 2018, Gmail Compose Actions, Google Cloud partners with NASA, & more!",
+    "description": "The Google Developers Show: Episode TL;DR 132\n\nBuild better apps in a smaller bundle → http://bit.ly/2ObC0Hu\nSpinnaker’s Kubernetes support → http://bit.ly/2ELGHrW\nGmail Compose Actions → http://bit.ly/2JeMPrb\nGo 1.11 on App Engine → http://bit.ly/2AsdEWd\nIs there life on other planets? → http://bit.ly/2O7KAH9\n\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Timothy Jordan (@timothyjordan). Expect a new Dev Show episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ze-yFHXjxJQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ze-yFHXjxJQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ze-yFHXjxJQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "ze-yFHXjxJQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fdYcyOc6ZxEi44CyV7wq976JwR0\"",
+   "id": "VTE1NDA0MTM4MDgxNDA2OTYyNzM3ODI5Mjg=",
+   "snippet": {
+    "publishedAt": "2018-10-24T20:43:28.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Chat with Lak Lakshmanan, Technical Lead for Machine Learning and Big Data - Coffee with a Googler",
+    "description": "In this episode Laurence chats with Lak Lakshmanan, Technical Lead for Big Data and Machine Learning at Google. Lak shares the story of how his passion for machine learning brought him to Google, where he helps educate people on how to be successful on Cloud through his work in the Professional Services Organization. Laurence and Lak also discuss his book Data Science on the Google Cloud Platform and series of courses for Coursera on Machine Learning on GCP.\n\nMore about Lak → http://bit.ly/Lak-Lakshmanan \nLak’s book on building data pipelines  → https://oreil.ly/2CjIAcF \nData and Machine Learning Training Courses → http://bit.ly/2IWLCVm \n\nWatch more Coffee with a Googler → https://bit.ly/CoffeeWithAGoogler\n\nSubscribe to the Google Developers channel → https://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ie1OdNMnrig/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ie1OdNMnrig/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ie1OdNMnrig/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ie1OdNMnrig/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ie1OdNMnrig/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "Ie1OdNMnrig"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/LerD5jz7BoKMy1DM9Xe3l0r7oEA\"",
+   "id": "VTE1NDAzMTQwMjIxNDA2OTYyNzM3ODQwODA=",
+   "snippet": {
+    "publishedAt": "2018-10-23T17:00:22.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "SliverAppBar (Flutter Widget of the Week)",
+    "description": "Fancy, animated headers that change or disappear as your scroll are all the rage! With SliverAppBar, it’s easy to implement one in your app. Along with CustomScrollView, you can get a custom scroll behavior in your app bar! \n\nLearn more about SliverAppBar → http://bit.ly/2yKnaBV\nLearn more about CustomScrollView → http://bit.ly/2AeDHjB\n\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R9C5KMJKluE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R9C5KMJKluE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R9C5KMJKluE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/R9C5KMJKluE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/R9C5KMJKluE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "R9C5KMJKluE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a5GZHW18Oz7a0_jSvNigLMX2e5o\"",
+   "id": "VTE1Mzk5ODQ5ODcxNDA2OTYyNzM3ODI4MDA=",
+   "snippet": {
+    "publishedAt": "2018-10-19T21:36:27.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Calling all mobile developers - Welcome to the Firebase channel",
+    "description": "Firebase is Google's mobile platform that helps you quickly develop high-quality apps and grow your business. The best way to learn Firebase is straight from the experts! That’s why we created the Firebase YouTube channel. This is the place for mobile developers to catch all the latest product announcements, tutorials, and much more! \n\nSubscribe to the Firebase channel to stay up to date with the Firebase team → http://bit.ly/firebase2\n\nWatch some of our original Firebase series:\n\nGet to Know Cloud Firestore → http://bit.ly/2K51AAu\n#AskFirebase → http://bit.ly/2Jen2ml\nFirecasts → http://bit.ly/2LfjL2z\nCloud Functions for Firebase → http://bit.ly/2M2ZBcE\nFirebase Developer Stories → http://bit.ly/2MHyszL\n#MeetFirebase → http://bit.ly/2MYFuNU\nServer-Side Rendering → http://bit.ly/2QZdMC6\nFirebase Semi-Live → http://bit.ly/2NMSC8a\nFirebase Pro Series! → http://bit.ly/2OX98nH\n\nLearn more about Firebase → http://bit.ly/2xk28dw\nGet ready for Firebase Summit 2018 → http://bit.ly/2zrhjF8",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yBPIgNguPyI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yBPIgNguPyI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yBPIgNguPyI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/yBPIgNguPyI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/yBPIgNguPyI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "yBPIgNguPyI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/AnOcyOyR4SMVuXW5lMyLwoZmbWI\"",
+   "id": "VTE1Mzk5MDYxMzExNDA2OTYyNzM2OTYwMTY=",
+   "snippet": {
+    "publishedAt": "2018-10-18T23:42:11.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Audio apps with Oboe, London Next recap, Chrome 71 DevTools, & much more!",
+    "description": "The Google Developers Show: Episode TL;DR 131\n\nIntroducing Oboe: C++ library for low latency audio → http://bit.ly/2pY7A1p\nAndroid Dev Summit 2018 on November 7-8 → http://bit.ly/2NOGZO6\nGoogle Cloud Next London → http://bit.ly/2J4qVab\nContainer-native load balancing on GKE → http://bit.ly/2P6nl4B\nBuilding a more reliable infrastructure with new Stackdriver tools and partners → http://bit.ly/2AgQfHd\nCloud Spanner and Cloud Bigtable updates → http://bit.ly/2CT40yi\nCloud Storage updates bring new replication options → http://bit.ly/2P7Mn3v\nAccelerate with APIs: Apigee API monitoring, extensions and hosted targets now generally available → http://bit.ly/2PHkUTl\nOpen Sourcing Active Question Reformulation with Reinforcement Learning → http://bit.ly/2J4rlgL\nWhat's New In DevTools (Chrome 71) → http://bit.ly/2S0hw7G\nFlutter Live 2018 on December 4th → http://bit.ly/2NNUWLT\nElevating user trust in our API ecosystem → http://bit.ly/2pZI8bT\nMore granular Google Account permissions → http://bit.ly/2CsGY0h\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Florina Muntenescu (@FMuntenescu). Expect a new Dev Show episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs\n\n#AndroidDevSummit #FlutterLive #GoogleNext18",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6JuU2niGK2U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6JuU2niGK2U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6JuU2niGK2U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/6JuU2niGK2U/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/6JuU2niGK2U/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "6JuU2niGK2U"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/17vGO5ICjuoh9SyXNrmmaePK0bo\"",
+   "id": "VTE1Mzk3OTY3MzYxNDA2OTYyNzM2OTYyNzI=",
+   "snippet": {
+    "publishedAt": "2018-10-17T17:18:56.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Material Components, Material.io, and Theming (The Boring Flutter Development Show, Ep. 9)",
+    "description": "In this episode of The Boring Show, Filip is joined by Will Larche, an engineer on the Material Design team. They showcase how to implement Material Design, Material Theming, and the resources found on the material.io site (here → https://material.io/). \n\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! You can reach out in the comments below or on Twitter using #BoringShow.\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kxSVpYc2osA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kxSVpYc2osA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kxSVpYc2osA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/kxSVpYc2osA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/kxSVpYc2osA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "kxSVpYc2osA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/FyXy-ZUxS_D5CGjRPae1NP4JqJc\"",
+   "id": "VTE1Mzk3MDkzNzExNDA2OTYyNzM2OTUzMTI=",
+   "snippet": {
+    "publishedAt": "2018-10-16T17:02:51.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Table (Flutter Widget of the Week)",
+    "description": "Table is perfect for creating a grid of widgets that you don’t want to scroll, especially if you have widgets of all different sizes. Nested rows and columns can get a little messy, but the Table widget provides consistency and resizes your children widgets for you. Give it a go! \n\nLearn more about Table → http://bit.ly/2A2mjyq\n\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_lbE0wsVZSw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_lbE0wsVZSw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_lbE0wsVZSw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_lbE0wsVZSw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_lbE0wsVZSw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "_lbE0wsVZSw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vV4mEPU4Cxcf77zYMAmKedX95AY\"",
+   "id": "VTE1MzkyOTg4ODIxNDA2OTYyNzM2OTQ5OTI=",
+   "snippet": {
+    "publishedAt": "2018-10-11T23:01:22.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Actions on Google, Kotlin momentum for Android, GCP Asset Inventory, & Gmail Delegation",
+    "description": "The Google Developers Show: Episode TL;DR 130\n\nActions on Google → http://bit.ly/2EdNc6D\nKotlin Momentum → http://bit.ly/2RGTyhv\nAsset Inventory → http://bit.ly/2CDSBSD\nNew ways to manage delegate settings using the Gmail API → http://bit.ly/2NBNC5X\n2018 Go Company Questionnaire → http://bit.ly/2CEohr0\n\n\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Dan Galpin (@dgalpin). Expect a new Dev Show episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QLzyVUyHsx0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QLzyVUyHsx0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QLzyVUyHsx0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QLzyVUyHsx0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QLzyVUyHsx0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "QLzyVUyHsx0"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GB9r2Wc-Wyiif5YrKcr4L-eZeA4\"",
+   "id": "VTE1MzkxMDQ3NDIxNDA2OTYyNzM2OTc1NTI=",
+   "snippet": {
+    "publishedAt": "2018-10-09T17:05:42.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "PageView (Flutter Widget of the Week)",
+    "description": "If you like having one great looking screen on Flutter, imagine what having a bunch of swipeable screens would be like! With PageView and PageController, it’s easy to create a series of screens that users can swipe vertically and horizontally. Give it a try! \n\nLearn more about PageView → http://bit.ly/2zLfOQc\nLearn more about PageController → http://bit.ly/2OwxdEG\n\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/J1gE9xvph-A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/J1gE9xvph-A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/J1gE9xvph-A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/J1gE9xvph-A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/J1gE9xvph-A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "J1gE9xvph-A"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/moNmgjbMwHuZijrx6pchxtzudrg\"",
+   "id": "VTE1MzkwMzkxODUxNDA2OTYyNzM2OTcwNDA=",
+   "snippet": {
+    "publishedAt": "2018-10-08T22:53:05.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Intro to Episode 8! (The Boring Flutter Dev Show, Ep. 8.1)",
+    "description": "Watch the first episode, Code Cleanup and Fixing Pub Versioning, here → http://bit.ly/2E7mVGS\n\nIn this 3-part episode of the Boring Show, Filip and Emily circle back to the Hacker News Reader app. They address the last few existing issues and prep the app to be published on the Play Store.\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! \n\nYou can reach out in the comments below or on Twitter using #BoringShow.\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7I8xY8FKo6k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7I8xY8FKo6k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7I8xY8FKo6k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7I8xY8FKo6k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7I8xY8FKo6k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "7I8xY8FKo6k"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JFV3M4mw826A2hIr6sLfgLZu-N4\"",
+   "id": "VTE1MzkwMzkwODMxNDA2OTYyNzM2OTg3MDQ=",
+   "snippet": {
+    "publishedAt": "2018-10-08T22:51:23.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Code Cleanup and Fixing Pub Versioning in Hacker News App (The Boring Flutter Dev Show, Ep. 8.2)",
+    "description": "In this first segment, Filip and Emily update the app to pull Hacker News stories live from the Hacker News API, instead of presenting hardcoded stories; they discuss how to manage inputs and outputs for multiple BLoCs; they discuss package versioning and how to update your pubspec; and they show how to fix warnings in the app.\n\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! You can reach out in the comments below or on Twitter using #BoringShow.\n\nWatch the next episode, Adding Caching to the Hacker News App, here → http://bit.ly/2IJBM9f\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LrQWzOkC0XQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LrQWzOkC0XQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LrQWzOkC0XQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LrQWzOkC0XQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LrQWzOkC0XQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "LrQWzOkC0XQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YgW_ZNSrPfKVjEWf5Pus4OMhJLk\"",
+   "id": "VTE1MzkwMzg4NTgxNDA2OTYyNzM2OTg2NDA=",
+   "snippet": {
+    "publishedAt": "2018-10-08T22:47:38.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Adding Caching to the Hacker News App (The Boring Flutter Development Show, Ep. 8.3)",
+    "description": "In this episode of the Boring Show, Filip and Emily showcase a workaround for adding the total comment count, per story, in their Hacker News Reader app. Then, they dive into how to add caching to a Flutter app.\n\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! You can reach out in the comments below or on Twitter using #BoringShow.\n\nWatch the next episode, Publishing A Flutter App to the Play Store, here → http://bit.ly/2Rz7p9v\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Bud7XR8crWw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Bud7XR8crWw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Bud7XR8crWw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Bud7XR8crWw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Bud7XR8crWw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "Bud7XR8crWw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/A-nMFRmMNuWNi1bhuO3pEH1nSGo\"",
+   "id": "VTE1MzkwMzg3ODExNDA2OTYyNzM2OTY5MTI=",
+   "snippet": {
+    "publishedAt": "2018-10-08T22:46:21.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Publishing a Flutter App to the Play Store (The Boring Flutter Development Show, Ep. 8.4)",
+    "description": "In this episode of the Boring Show, Filip and Emily spend some time in the Google Play Console preparing their Hacker News app for publishing on the Play Store. \n\nPlease leave us your feedback in the comments, and let us know what you would like us to build next! You can reach out in the comments below or on Twitter using #BoringShow.\n\nWatch more episodes of the boring show here → http://bit.ly/BoringShow\n\nGet started with Flutter → https://flutter.io\nTry a Flutter codelab → https://goo.gl/d3fHPo\nJoin the conversation → https://goo.gl/68oUnb\n\nSubscribe to the Google Developers channel → http://goo.gl/mQyv5L",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dR04ArAhxd4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dR04ArAhxd4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dR04ArAhxd4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/dR04ArAhxd4/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/dR04ArAhxd4/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "dR04ArAhxd4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/K-uc3xIHwBgK4CVsnzU2rzlPz8M\"",
+   "id": "VTE1Mzg2ODk5MjgxNDA2OTYyNzM2OTUxMjA=",
+   "snippet": {
+    "publishedAt": "2018-10-04T21:52:08.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Android Studio 3.2, new APIs for ARCore, what’s new in Kubernetes 1.12, & more!",
+    "description": "The Google Developers Show: Episode TL;DR 129\n\nAndroid Studio 3.2 → http://bit.ly/2Oz8gIN\nARCore → http://bit.ly/2P6OqkR\nKubernetes 1.12 → http://bit.ly/2yfCvdw\nCloud Tasks → http://bit.ly/2xZ5N0L\nGoogle Fonts Japanese support → http://bit.ly/2IFzKqu\nTrustworthy Chrome Extensions, by default → http://bit.ly/2IDNBOl\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Timothy Jordan (@timothyjordan). Expect a new episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L7w1-nLWLFI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L7w1-nLWLFI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L7w1-nLWLFI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/L7w1-nLWLFI/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/L7w1-nLWLFI/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "L7w1-nLWLFI"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WtHz3XTqpdMHZ02MPnzrsVJy3U0\"",
+   "id": "VTE1Mzg0OTk3NzAxNDA2OTYyNzM2OTQ4NjQ=",
+   "snippet": {
+    "publishedAt": "2018-10-02T17:02:50.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "FloatingActionButton (FAB) (Flutter Widget of the Week)",
+    "description": "If you want to embed a button in your bottom navigation bar, Flutter’s got you covered! By combining FloatingActionButton (FAB) with BottomAppBar in your scaffold, you can easily embed buttons anywhere in your navigation bar. \n\nLearn more about FAB → http://bit.ly/2OUWl52\nLearn more about BottomNavigationBar → http://bit.ly/2IhAvG6\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2uaoEDOgk_I/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2uaoEDOgk_I/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2uaoEDOgk_I/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/2uaoEDOgk_I/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/2uaoEDOgk_I/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "2uaoEDOgk_I"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DQHy2h6PPUkEdymez5cZJHqUYMo\"",
+   "id": "VTE1MzgxNjk1MDcxNDA2OTYyNzM2OTQ4MDA=",
+   "snippet": {
+    "publishedAt": "2018-09-28T21:18:27.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Building Inclusion into Your Product Sprint",
+    "description": "Anthony and Léa expound on the importance of building inclusion into your product sprint. Thinking about equity, diversity, and inclusion during the planning phase will dramatically help reduce design flaws. Watch the video to hear examples of how some projects have backfired because inclusive practices weren’t built in, and gain some tips on how to prevent that from happening to you. \n\nReference links:\nDiversity at Google → http://bit.ly/2xFZ3V8\nWomen of Silicon Valley (WSV) → http://bit.ly/2QXUZrw\nWSV Facebook Page → http://bit.ly/2Ig1otX\nLéa Coligado → http://bit.ly/2DwEIY1    \n\nFor latest updates and releases, remember to subscribe! → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oSmCTqX9fRA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oSmCTqX9fRA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oSmCTqX9fRA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/oSmCTqX9fRA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/oSmCTqX9fRA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "oSmCTqX9fRA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/H4KbS8Fx0N6zCZi89KmtazROBPA\"",
+   "id": "VTE1MzgwODQ5ODgxNDA2OTYyNzM2OTU4MjQ=",
+   "snippet": {
+    "publishedAt": "2018-09-27T21:49:48.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Daydream experimental features, Flutter Release Preview 2, Coursera ML course, & more!",
+    "description": "The Google Developers Show:  Episode TL;DR 128\n\nNew experimental features for Daydream → http://bit.ly/2OUmfWx\nFlutter Release Preview 2 → http://bit.ly/2QfZjkM\nData Studio and Cloud Dataprep → http://bit.ly/2OUAUkg\nCloud Inference API → http://bit.ly/2R5xkFJ\nCoursera: Advanced Machine Learning with TensorFlow on Google Cloud Platform → http://bit.ly/2OklQzt\nCloud Memorystore for Redis → http://bit.ly/2xHkoOd\nCloud Source Repositories → http://bit.ly/2N5E9DV\n\n\nThe Google Developer Show brings you the latest developer news from across Google. Your host for this week is Developer Advocate Reto Meier (@retomeier). Expect a new episode every week, and let us know what you think of the latest announcements in the comments below!\n\nWatch previous episodes → http://bit.ly/2KWNldh\nSubscribe to Google Developers → http://bit.ly/googledevs",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-fQevMEQDJQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-fQevMEQDJQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-fQevMEQDJQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-fQevMEQDJQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-fQevMEQDJQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "-fQevMEQDJQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TkzLTqCQjEr66xEslusxF9p-QUQ\"",
+   "id": "VTE1Mzc5ODEyMzgxNDA2OTYyNzM2OTU1Njg=",
+   "snippet": {
+    "publishedAt": "2018-09-26T17:00:38.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "Code that final mile: from big data analysis to slide presentation (The G Suite Dev Show)",
+    "description": "There are many tools out there for data scientists. While you've made interesting findings using big data tools, don't you still have to justify those results to management at the end of the day? Lots of numbers on paper or in a database is hardly presentable to key stakeholders. In this video, learn not only how to access Google Cloud Platform's BigQuery from G Suite, but also how to code that final mile and go from big data analysis all the way to a slide presentation, all in a single G Suite serverless app! \n\nCodelab & source code → http://bit.ly/2Igajfe\nSample app source code GitHub repo → http://bit.ly/2IfdeF2\nG Suite + GCP: building serverless solutions with all of Google Cloud Cloud NEXT '18 session → http://bit.ly/2QWANq6\nApps Script-BigQuery sample → http://bit.ly/2xz1pFq\nGenerating slides from spreadsheet data DevByte video → http://bit.ly/2Icg5OF\nGoogle Slides API codelab → http://bit.ly/2Ie3pXJ\nGoogle Sheets data connector for BigQuery announcements → http://bit.ly/2OapMmc and http://bit.ly/2xI9BCk\nApply for Sheets data connector for BigQuery EAP/TT program →\nhttp://bit.ly/2DDzwld\nGoogle BigQuery → http://bit.ly/2DnTMH8\nGoogle Apps Script → http://bit.ly/2zrw6hh\nApps Script built-in services → http://bit.ly/2QUX8nK\nApps Script advanced services → http://bit.ly/2O5VyRj\nG Suite Dev Show video series playlist → http://bit.ly/2tEjGz7\nLaunchpad Online developer video series playlist → http://bit.ly/2QVZ3bx\nGoogle Developers YouTube channel → http://bit.ly/2zs0esU\n\n\nSubscribe to the Google Developers channel → http://bit.ly/googledevs\nWatch more G-Suite Developer Show → http://bit.ly/2ORZZg1\n\n\n#AppsScript #BigQuery #GoogleSheets #GoogleSlides #GSuite #GCP",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BkaywE91KvM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BkaywE91KvM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BkaywE91KvM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/BkaywE91KvM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/BkaywE91KvM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "BkaywE91KvM"
+    }
+   }
+  },
+  {
+   "kind": "youtube#activity",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dA5Jj16ymXzetwVEWgfj83clhRY\"",
+   "id": "VTE1Mzc4OTQ5NDQxNDA2OTYyNzM2OTc0MjQ=",
+   "snippet": {
+    "publishedAt": "2018-09-25T17:02:24.000Z",
+    "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+    "title": "FadeTransition (Flutter Widget of the Week)",
+    "description": "When you’re just looking for a simple transition and don’t need to make use of Flutter’s more powerful animations, try the FadeTransition widget! FadeTransition lets you easily fade a widget in and out, and it’s ready to drop directly into your Flutter app. \n\nLearn more about FadeTransition → http://bit.ly/2pm76Sw\nGet more tips! → http://bit.ly/2B8M3vG\n\nSubscribe! → http://bit.ly/googledevs\n\nThis video is also subtitled in Chinese, Indonesian, French, German, Japanese, Korean, Portuguese, and Spanish.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rLwWVbv3xDQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rLwWVbv3xDQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rLwWVbv3xDQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/rLwWVbv3xDQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/rLwWVbv3xDQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Google Developers",
+    "type": "upload"
+   },
+   "contentDetails": {
+    "upload": {
+     "videoId": "rLwWVbv3xDQ"
+    }
+   }
+  }
+ ]
+}
