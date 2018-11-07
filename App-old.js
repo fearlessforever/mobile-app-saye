@@ -13,9 +13,10 @@ import { createStackNavigator } from 'react-navigation'
 import HomeScreen from './screens/Home'
 import ProfileScreen from './screens/Profile'
 import ModalScreen from './screens/Modal'
+import Loader from './screens/Loader'
 
 export default createStackNavigator({
-  Home: {screen: HomeScreen,title:'Home Screen'},
+  Home: {screen: Loader,title:'Home Screen'},
   Profile: {screen: ProfileScreen,title:'Profile Screen'},
   Modal: {screen: ModalScreen,title:'Modal Screen'},
 });

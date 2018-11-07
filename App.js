@@ -36,7 +36,7 @@ export default class App extends Component {
           </TouchableOpacity>
           <TouchableOpacity style={styles.tabItem} >
             <Icon name="subscriptions" size={25}/>
-            <Text style={styles.tabTitle}>Subscriptions</Text>
+            <Text style={styles.tabTitle}>Subscriptions!!!!</Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.tabItem} >
             <Icon name="folder" size={25}/>

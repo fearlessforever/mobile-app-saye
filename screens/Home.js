@@ -1,18 +1,19 @@
 import React, {Component} from 'react'
-import { View, Text ,Button ,ImageBackground } from 'react-native' 
+import { View, Text ,Button ,ImageBackground , Alert } from 'react-native' 
 
 export default class Home extends Component {
   static navigationOptions = {
-    title: 'Welcome',
+    header:null,
+    title:''
   };
 
   componentWillMount(){
-    alert('Peringatan','Okde deh');
+    Alert.alert('Peringatan','Okde deh');
   }
 
   render() {
     return (
-      <ImageBackground source={ require('../tes.jpg') } style={{width:'100%',height:'100%'}}>
+      <ImageBackground source={ require('../assets/logo.2x.png') } style={{alignItems:'stretch',width:'100%',height:'100%'}}>
       <View style={{ flex: 1, alignItems: 'center', justifyContentz: 'center' }}>
       <Text>Home Screens</Text>
         <Button
